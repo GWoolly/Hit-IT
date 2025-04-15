@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"layers_get_ids",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"layers_get_ids",
+  "parent":{
+    "name":"_Collision",
+    "path":"folders/Scripts/_Collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

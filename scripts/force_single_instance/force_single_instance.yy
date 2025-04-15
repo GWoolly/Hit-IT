@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"force_single_instance",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"force_single_instance",
+  "parent":{
+    "name":"Instances",
+    "path":"folders/Scripts/General/Instances.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

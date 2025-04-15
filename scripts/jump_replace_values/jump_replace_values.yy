@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"jump_replace_values",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"jump_replace_values",
+  "parent":{
+    "name":"Old",
+    "path":"folders/Scripts/_Platformer/Jumping/Old.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

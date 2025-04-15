@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tilemap_collision_layers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tilemap_collision_layers",
+  "parent":{
+    "name":"_Collision",
+    "path":"folders/Scripts/_Collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

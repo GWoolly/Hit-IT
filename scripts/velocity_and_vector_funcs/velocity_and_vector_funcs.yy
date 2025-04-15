@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"velocity_and_vector_funcs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"velocity_and_vector_funcs",
+  "parent":{
+    "name":"Velocity",
+    "path":"folders/Scripts/General/Velocity.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

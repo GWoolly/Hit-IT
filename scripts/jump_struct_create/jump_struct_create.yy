@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"jump_struct_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"jump_struct_create",
+  "parent":{
+    "name":"Jumping",
+    "path":"folders/Scripts/_Platformer/Jumping.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

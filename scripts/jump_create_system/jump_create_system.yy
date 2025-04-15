@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"jump_create_system",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"jump_create_system",
+  "parent":{
+    "name":"Old",
+    "path":"folders/Scripts/_Platformer/Jumping/Old.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

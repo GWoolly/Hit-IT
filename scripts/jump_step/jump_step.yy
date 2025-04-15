@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"jump_step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"jump_step",
+  "parent":{
+    "name":"Components",
+    "path":"folders/Scripts/_Platformer/Jumping/Components.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

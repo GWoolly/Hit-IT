@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"collision_set_class",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"collision_set_class",
+  "parent":{
+    "name":"_Flags",
+    "path":"folders/Scripts/_Collision/_Flags.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

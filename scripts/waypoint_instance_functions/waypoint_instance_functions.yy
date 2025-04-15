@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"waypoint_instance_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"waypoint_instance_functions",
+  "parent":{
+    "name":"Waypoints",
+    "path":"folders/Scripts/Waypoints.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

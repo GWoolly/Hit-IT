@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"attach_to",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"attach_to",
+  "parent":{
+    "name":"Attach",
+    "path":"folders/Scripts/General/Attach.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

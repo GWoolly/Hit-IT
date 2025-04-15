@@ -1,0 +1,2 @@
+#macro STATE_HISTORY_ENABLE		true
+#macro STATE_HISTORY_MAX		5
